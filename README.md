@@ -14,4 +14,4 @@ less than 2^256 bits and returns a 512-bit message digest. For a detailed defini
 refer to  http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html
 
 This source code is written in synthesizable Verilog and it was verified against some known 
-input-output bit vectors.
+input-output bit vectors. However, the author would appreciate any bug reports.
