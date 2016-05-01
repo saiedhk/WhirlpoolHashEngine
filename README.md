@@ -2,15 +2,7 @@
 WHIRLPOOL Hash Engine in Verilog
 
 This Github project presents a Verilog implementation of a single round (the main datapath) of the
-WHIRLPOOL hash function. It contains the following hierarchy of Verilog module.
-
-WHIRLPOOL_WCIPHER_ROUND
-    WHIRLPOOL_WCIPHER_PI
-    WHIRLPOOL_WCIPHER_MU
-    WHIRLPOOL_WCIPHER_THETA
-    WHIRLPOOL_WCIPHER_MU_INVERSE
-    WHIRLPOOL_WCIPHER_GAMMA
-        WHIRLPOOL_WCIPHER_SBOX
+WHIRLPOOL hash function. 
 
 WHIRLPOOL is a cryptographic hash function, which was designed by Vincent Rijmen (co-creator 
 of the Advanced Encryption Standard) and Paulo S. L. M. Barreto, in 2000. The hash has been 
