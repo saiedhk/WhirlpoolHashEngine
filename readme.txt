@@ -37,7 +37,7 @@
 
 Project Description
 
-This Github project present a Verilog implementation of a single round (the main datapath) of the
+This project present a Verilog implementation of a single round (the main datapath) of the
 WHIRLPOOL hash function. It contains the following hierarchy of Verilog module.
 
 WHIRLPOOL_WCIPHER_ROUND
@@ -58,6 +58,6 @@ less than 2^256 bits and returns a 512-bit message digest. For a detailed defini
 refer to  http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html
 
 This source code is written in synthesizable Verilog and it was verified against some known 
-input-output bit vectors. 
+input-output bit vectors. However, the author would appreciate any bug reports.
 
         
